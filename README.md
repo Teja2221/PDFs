@@ -14,7 +14,7 @@
 <td align="center" valign="top" width="33%"><img src="assets/pdf-covers/claude-code-for-beginners.jpg" alt="Claude Code for Beginners: Build, Debug, and Deploy Your First Application" title="Claude Code for Beginners: Build, Debug, and Deploy Your First Application" width="100%" /><br /><strong>PDF not available</strong></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/network-troubleshooting-handbook.jpg" alt="Network Troubleshooting Handbook" title="Network Troubleshooting Handbook" width="100%" /><br /><strong>PDF not available</strong></td>
+<td align="center" valign="top" width="33%"><a href="02.%20Networking/Network%20Troubleshooting%20Handbook.pdf"><img src="assets/pdf-covers/network-troubleshooting-handbook.jpg" alt="Network Troubleshooting Handbook" title="Network Troubleshooting Handbook" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="05.%20Docker%20%26%20Containers/The%20Docker%20Security%20Handbook.pdf"><img src="assets/pdf-covers/docker-security-handbook.jpg" alt="The Docker Security Handbook" title="The Docker Security Handbook" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="17.%20Production%20Engineering/Anatomy%20of%20a%20Production%20Request.pdf"><img src="assets/pdf-covers/anatomy-production-request.jpg" alt="Anatomy of a Production Request" title="Anatomy of a Production Request" width="100%" /></a></td>
 </tr>
