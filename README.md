@@ -4,6 +4,16 @@
 
 <table width="100%">
 <tr>
+<td align="center" valign="top" width="33%"><a href="28.%20Hands-On%20Projects/20%20Shell%20Automation%20Projects%20for%20DevOps.pdf"><img src="assets/pdf-covers/twenty-shell-automation-projects.jpg" alt="20 Shell Automation Projects for DevOps" title="20 Shell Automation Projects for DevOps" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="05.%20Docker%20%26%20Containers/50%20Docker%20Interview%20Scenarios%20HANDBOOK.pdf"><img src="assets/pdf-covers/fifty-docker-interview-handbook.jpg" alt="50 Docker Interview Scenarios" title="50 Docker Interview Scenarios" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/design-production-aws-architecture.jpg" alt="Design a Production AWS Architecture From Scratch" title="Design a Production AWS Architecture From Scratch" width="100%" /><br /><strong>PDF not available</strong></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="08.%20Infrastructure%20as%20Code/Terraform%2020%20Modules%20You%27ll%20Reuse%20in%20Every%20Project.pdf"><img src="assets/pdf-covers/terraform-twenty-reusable-modules.jpg" alt="Terraform: 20 Modules You’ll Reuse in Every Project" title="Terraform: 20 Modules You’ll Reuse in Every Project" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="11.%20Databases/Redis%20in%20Production.pdf"><img src="assets/pdf-covers/redis-in-production.jpg" alt="Redis in Production" title="Redis in Production" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/claude-code-for-beginners.jpg" alt="Claude Code for Beginners: Build, Debug, and Deploy Your First Application" title="Claude Code for Beginners: Build, Debug, and Deploy Your First Application" width="100%" /><br /><strong>PDF not available</strong></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%"><img src="assets/pdf-covers/network-troubleshooting-handbook.jpg" alt="Network Troubleshooting Handbook" title="Network Troubleshooting Handbook" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="05.%20Docker%20%26%20Containers/The%20Docker%20Security%20Handbook.pdf"><img src="assets/pdf-covers/docker-security-handbook.jpg" alt="The Docker Security Handbook" title="The Docker Security Handbook" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="17.%20Production%20Engineering/Anatomy%20of%20a%20Production%20Request.pdf"><img src="assets/pdf-covers/anatomy-production-request.jpg" alt="Anatomy of a Production Request" title="Anatomy of a Production Request" width="100%" /></a></td>
@@ -15,16 +25,6 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="00.%20Linux/60%20Linux%20Commands%20in%2060%20Real%20Situations.pdf"><img src="assets/pdf-covers/sixty-linux-real-situations.jpg" alt="60 Linux Commands in 60 Real Situations" title="60 Linux Commands in 60 Real Situations" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="28.%20Hands-On%20Projects/20%20Shell%20Automation%20Projects%20for%20DevOps.pdf"><img src="assets/pdf-covers/twenty-shell-automation-projects.jpg" alt="20 Shell Automation Projects for DevOps" title="20 Shell Automation Projects for DevOps" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="05.%20Docker%20%26%20Containers/50%20Docker%20Interview%20Scenarios%20HANDBOOK.pdf"><img src="assets/pdf-covers/fifty-docker-interview-handbook.jpg" alt="50 Docker Interview Scenarios" title="50 Docker Interview Scenarios" width="100%" /></a></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/design-production-aws-architecture.jpg" alt="Design a Production AWS Architecture From Scratch" title="Design a Production AWS Architecture From Scratch" width="100%" /><br /><strong>PDF not available</strong></td>
-<td align="center" valign="top" width="33%"><a href="08.%20Infrastructure%20as%20Code/Terraform%2020%20Modules%20You%27ll%20Reuse%20in%20Every%20Project.pdf"><img src="assets/pdf-covers/terraform-twenty-reusable-modules.jpg" alt="Terraform: 20 Modules You’ll Reuse in Every Project" title="Terraform: 20 Modules You’ll Reuse in Every Project" width="100%" /></a></td>
-<td align="center" valign="top" width="33%"><a href="11.%20Databases/Redis%20in%20Production.pdf"><img src="assets/pdf-covers/redis-in-production.jpg" alt="Redis in Production" title="Redis in Production" width="100%" /></a></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/claude-code-for-beginners.jpg" alt="Claude Code for Beginners: Build, Debug, and Deploy Your First Application" title="Claude Code for Beginners: Build, Debug, and Deploy Your First Application" width="100%" /><br /><strong>PDF not available</strong></td>
 <td align="center" valign="top" width="33%"><a href="13.%20Monitoring%20%26%20Observability/Build%20a%20Full%20Observability%20Stack%20Prometheus%2C%20Grafana%2C%20Loki%20%26%20Alerts%20That%20Wake%20the%20Right%20Person.pdf"><img src="assets/pdf-covers/full-observability-stack.jpg" alt="Build a Full Observability Stack: Prometheus, Grafana, Loki &amp; Alerts That Wake the Right Person" title="Build a Full Observability Stack: Prometheus, Grafana, Loki &amp; Alerts That Wake the Right Person" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="15.%20Incident%20Response/The%20Incident%20Response%20Playbook%20Your%20First%2010%20Real%20Incidents.pdf"><img src="assets/pdf-covers/first-ten-real-incidents.jpg" alt="The Incident Response Playbook: Your First 10 Real Incidents" title="The Incident Response Playbook: Your First 10 Real Incidents" width="100%" /></a></td>
 </tr>
